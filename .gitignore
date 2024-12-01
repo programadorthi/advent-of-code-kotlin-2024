@@ -2,5 +2,6 @@
 .idea
 .kotlin/
 build
+resources/**/*.txt
 src/**/*.txt
 local.properties
